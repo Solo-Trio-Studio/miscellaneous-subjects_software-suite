@@ -1,16 +1,6 @@
-<html>
-    <head>
-        <title>Miscellaneous Subjects</title>
-        <style> 
-                body {
-                    background-color: rgb(64,64,64);
-                }
-        </style>
-    <head>
-    <body>
-        <h1>Dungeon Explorer</h1>
-        <p>
-            Aw, it was so bad we had to censor the whole screen!!!
+def main():
+    print("Dungeon Explorer")
+    print("Aw, it was so bad we had to censor the whole screen!!!
             A smorgasbord of showgirls and showboys are noticed loligagging nevertheless; one of them starts playing IceJJFish's On the Floor on their smartwatch, while a person interrupts that they're still showering and trying to listen to Lil B's RED FLAME mixtape.
             One of them screams as a robotic centipede with red eyes and large sharp mettalic antennae slithers past.
             A door opens showcasing people dressed in white and assorted bling, as they march in carrying an artifact of sorts.
@@ -27,7 +17,8 @@
             People begin to group in a circle.
             They tell jokes, and begin to enter mechas which are layered.
             The mecha's morals & ethics are discussed, as factions form.
-            Everybody calls it a day.
+            Everybody calls it a day.")
+            
         </p>
         <h1>Game Theory Codex</h1>
         <p>Game Theory consists of (a)symettric, (non-)zero sum, simulataneous/sequential, and (in)complete information, discrete/continuous variables</p>
