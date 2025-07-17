@@ -1,2 +1,2 @@
 def main():
-  print("There must be at least 2 of something to perform. If this is not enough, 3 of a different thing should be replacement.")
+  print("There must be at least 3 of something to perform, as 2 of the same thing usually requires something else as replacement.")
